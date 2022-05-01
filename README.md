@@ -4,9 +4,11 @@
 
 ## Description
 
+This is a text editor that runs in the browser. It is a single page application that meets PWA criteria, meaning this application is built with data persistence mechanisms and will run both with and without an internet connection.
+
 ## Installation
 
-This application requires Express.js for routing, a MongoDB database, and the Mongoose ODM.
+This application requires a package called "idb".
 
 This application was deployed to Heroku.
 
