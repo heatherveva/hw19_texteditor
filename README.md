@@ -6,6 +6,8 @@
 
 This is a text editor that runs in the browser. It is a single page application that meets PWA criteria, meaning this application is built with data persistence mechanisms and will run both with and without an internet connection.
 
+When a user types text on the page, the data is saved to a local database. An install button makes the application available for download on a user's local machine. This allows the application to run and store data offline.
+
 ## Installation
 
 This application requires a package called "idb".
@@ -14,7 +16,7 @@ This application was deployed to Heroku.
 
 ## Screenshot
 
-[![This is a screenshot of the Tech Talk homepage. The title is dark green and located in the left corner, while the existing blog posts are displayed below.](./public/images/techtalk.png)](./public/images/techtalk.png)
+![This is an image of the applications initial state. It's a dark background with JATE at the top.](./client/src/images/JATE.png)
 
 ## License
 
@@ -28,8 +30,8 @@ Email: heatherveva@gmail.com
 
 ## Links
 
-GitHub Repository:
+GitHub Repository: https://github.com/heatherveva/hw19_texteditor.git
 
-GitHub Page:
+GitHub Page: https://heatherveva.github.io/hw19_texteditor/
 
-Walthrough:
+Heroku: https://textedit-heather-app.herokuapp.com/
